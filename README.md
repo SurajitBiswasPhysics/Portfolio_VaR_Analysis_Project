@@ -102,6 +102,8 @@ This project is a comprehensive portfolio risk analysis framework implemented in
 
 tiingo_adjusted_close.csv
 
+📊 Portfolio includes: AAPL, MSFT, GOOGL, AMZN, TSLA — chosen for their liquidity and relevance to modern tech portfolios.
+
 ---
 
 ## 🛠️ Installation & Setup
