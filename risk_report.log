@@ -1,0 +1,86 @@
+2025-05-14 12:33:03,325 - INFO - 
+[VaR Results at 95% Confidence Level]
+2025-05-14 12:33:03,395 - INFO - Historical          : $0.033087
+2025-05-14 12:33:03,409 - INFO - Parametric Normal   : $0.054738
+2025-05-14 12:33:03,430 - INFO - Parametric Student-t: $0.034869
+2025-05-14 12:33:03,653 - INFO - GARCH               : $0.050121
+2025-05-14 12:33:03,692 - INFO - Filtered Historical : $0.034997
+2025-05-14 12:33:03,790 - INFO - Monte Carlo         : $0.049608
+2025-05-14 12:33:03,793 - INFO - CVaR:                 $0.046607
+2025-05-14 12:33:03,799 - INFO - 10-day VaR (sqrt):       $0.110265
+2025-05-14 12:33:04,136 - INFO - True 10-day MC VaR:        $0.085905
+2025-05-14 12:33:04,138 - INFO - 
+[VaR Results at 99% Confidence Level]
+2025-05-14 12:33:04,143 - INFO - Historical          : $0.053327
+2025-05-14 12:33:04,150 - INFO - Parametric Normal   : $0.077926
+2025-05-14 12:33:04,163 - INFO - Parametric Student-t: $0.055875
+2025-05-14 12:33:04,218 - INFO - GARCH               : $0.071396
+2025-05-14 12:33:04,224 - INFO - Filtered Historical : $0.060399
+2025-05-14 12:33:04,332 - INFO - Monte Carlo         : $0.071204
+2025-05-14 12:33:04,334 - INFO - CVaR:                 $0.070261
+2025-05-14 12:33:04,343 - INFO - 10-day VaR (sqrt):       $0.176692
+2025-05-14 12:33:04,538 - INFO - True 10-day MC VaR:        $0.141016
+2025-05-14 12:33:04,539 - INFO - 
+[Performance Metrics]
+2025-05-14 12:33:04,541 - INFO - Sharpe Ratio: 0.0600
+2025-05-14 12:33:04,548 - INFO - Max Drawdown: -0.4905
+2025-05-14 12:33:04,550 - INFO - Stress Test (5% shock): $-0.048771
+2025-05-14 12:33:04,593 - INFO - 
+[Incremental VaR at 95% confidence]
+2025-05-14 12:33:04,594 - INFO - AAPL: $-0.00009922
+2025-05-14 12:33:04,598 - INFO - MSFT: $-0.00009359
+2025-05-14 12:33:04,601 - INFO - GOOGL: $-0.00006707
+2025-05-14 12:33:04,604 - INFO - AMZN: $-0.00000539
+2025-05-14 12:33:04,607 - INFO - TSLA: $0.00027399
+2025-05-14 12:35:12,665 - INFO - 
+[Enhanced Backtesting of Multiple VaR Models]
+2025-05-14 12:37:13,359 - INFO - 
+                  Model  Breaches  Expected  Breach Rate  Kupiec p-value  Acceptable
+0     Parametric Normal        67     54.45     0.061524        0.091615        True
+1  Parametric Student-t        52     54.45     0.047750        0.731512        True
+2                 GARCH        57     54.45     0.052342        0.724853        True
+3   Filtered Historical        49     54.45     0.044995        0.441134        True
+4           Monte Carlo        60     54.45     0.055096        0.447399        True
+2025-05-14 14:22:19,598 - INFO - 
+[VaR Results at 95% Confidence Level]
+2025-05-14 14:22:19,630 - INFO - Historical          : $0.033087
+2025-05-14 14:22:19,640 - INFO - Parametric Normal   : $0.054738
+2025-05-14 14:22:19,649 - INFO - Parametric Student-t: $0.034869
+2025-05-14 14:22:19,720 - INFO - GARCH               : $0.050121
+2025-05-14 14:22:19,725 - INFO - Filtered Historical : $0.037119
+2025-05-14 14:22:19,807 - INFO - Monte Carlo         : $0.049927
+2025-05-14 14:22:19,809 - INFO - CVaR:                 $0.046607
+2025-05-14 14:22:19,819 - INFO - 10-day VaR (sqrt):       $0.110265
+2025-05-14 14:22:20,108 - INFO - True 10-day MC VaR:        $0.087518
+2025-05-14 14:22:20,109 - INFO - 
+[VaR Results at 99% Confidence Level]
+2025-05-14 14:22:20,110 - INFO - Historical          : $0.053327
+2025-05-14 14:22:20,113 - INFO - Parametric Normal   : $0.077926
+2025-05-14 14:22:20,122 - INFO - Parametric Student-t: $0.055875
+2025-05-14 14:22:20,168 - INFO - GARCH               : $0.071396
+2025-05-14 14:22:20,173 - INFO - Filtered Historical : $0.060399
+2025-05-14 14:22:20,254 - INFO - Monte Carlo         : $0.071033
+2025-05-14 14:22:20,256 - INFO - CVaR:                 $0.070261
+2025-05-14 14:22:20,265 - INFO - 10-day VaR (sqrt):       $0.176692
+2025-05-14 14:22:20,448 - INFO - True 10-day MC VaR:        $0.136291
+2025-05-14 14:22:20,449 - INFO - 
+[Performance Metrics]
+2025-05-14 14:22:20,451 - INFO - Sharpe Ratio: 0.0600
+2025-05-14 14:22:20,454 - INFO - Max Drawdown: -0.4905
+2025-05-14 14:22:20,455 - INFO - Stress Test (5% shock): $-0.048771
+2025-05-14 14:22:20,488 - INFO - 
+[Incremental VaR at 95% confidence]
+2025-05-14 14:22:20,489 - INFO - AAPL: $-0.00009922
+2025-05-14 14:22:20,490 - INFO - MSFT: $-0.00009359
+2025-05-14 14:22:20,492 - INFO - GOOGL: $-0.00006707
+2025-05-14 14:22:20,495 - INFO - AMZN: $-0.00000539
+2025-05-14 14:22:20,497 - INFO - TSLA: $0.00027399
+2025-05-14 14:24:22,241 - INFO - 
+[Enhanced Backtesting of Multiple VaR Models]
+2025-05-14 14:26:20,215 - INFO - 
+                  Model  Breaches  Expected  Breach Rate  Kupiec p-value  Acceptable
+0     Parametric Normal        67     54.45     0.061524        0.091615        True
+1  Parametric Student-t        52     54.45     0.047750        0.731512        True
+2                 GARCH        57     54.45     0.052342        0.724853        True
+3   Filtered Historical        50     54.45     0.045914        0.530659        True
+4           Monte Carlo        60     54.45     0.055096        0.447399        True
