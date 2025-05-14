@@ -98,6 +98,12 @@ This project is a comprehensive portfolio risk analysis framework implemented in
 
 ---
 
+## 📚 Dataset Reference
+
+tiingo_adjusted_close.csv
+
+---
+
 ## 🛠️ Installation & Setup
 
 # Clone the repository
