@@ -126,4 +126,4 @@ If you're working on financial risk modeling, portfolio risk analysis — let’
 
 ## 🏷️ Tags
 
-`VaR Analysis` `Portfolio Risk Modeling` `Tenso `Data Science` `Finance`
+`VaR Analysis` `Portfolio Risk Modeling` `Data Science` `Finance`
